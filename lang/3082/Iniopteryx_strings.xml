@@ -1,0 +1,111 @@
+﻿<ZT2Strings>
+<entityname>
+   <!--animal names-->
+      <Iniopteryx>Iniopteryx</Iniopteryx>
+      <Iniopteryx_stt>Iniopteryx</Iniopteryx_stt>
+      <Iniopteryx_lower>El Iniopteryx</Iniopteryx_lower>
+      <Iniopteryx_ltt>
+         <color r="255" g="248" b="178">
+            <b>Iniopteryx</b>
+         </color>
+         <br/>
+         Haga clic y seleccione el Iniopteryx.
+      </Iniopteryx_ltt>
+</entityname>
+<zoopedia_iniopteryx>
+ <entry>Iniopteryx</entry>
+ <text>
+  <cell pady="0" width="1000"/>
+  <p/>
+  <cell width="260"/>
+  <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+   <cell width="600" padx="20" pady="20">
+   
+               <cell width="284">
+						 <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/Iniopteryx/Iniopteryx_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/extinct.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Estado de conservacion:
+                     <br/>
+                        <color r="0" g="255" b="0">
+                      Extinto
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>   
+   
+    <cell width="128">
+     <color r="255" g="255" b="255">Aguas abiertas<br/></color>
+     <img src="ui/icon_biomes/icon_coast.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+    </cell>
+    <cell width="128">
+     <color r="255" g="255" b="255">Costa y oceano<br/></color> 
+     <img src="ui/icon_maplocations/pelagic_warm_oceans_worldwide.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+    </cell>
+    <br/>
+    <cell width="284" pady="10">
+     <color r="255" g="255" b="255">Clase: Holocephali <i>(Holocephalida)</i><br/>Orden: Iniopterygiformes <i>(Holocephalimorpha)</i><br/>Familia: Iniopterygidae <i>(Iniopteryx)</i><br/>Genero: <i>Iniopteryx</i><br/>Especie: <i>I. Rushlaui</i>
+     </color>
+    </cell>
+    <cell width="256" pady="10">
+     <img src="UI/zoopedia/biome/pelagic_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+    </cell>
+   </cell>
+  </cell>
+  <p/>
+  <p/>
+  <cell width="260"/>
+  <cell width="300">
+   <cell width="64">
+    <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+   </cell>
+   <cell width="176">
+    <color r="255" g="255" b="255">
+     <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Datos sobre Iniopteryx</font>
+    </color>
+   </cell>
+   <p/>
+   <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+    <p/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Vivio en el Carbonifero.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Podia llegar a medir 24 cm.</color>
+    </cell>
+  </cell>
+  </cell>
+  <cell width="340">
+   <color r="255" g="248" b="178">
+    Para adoptar un Iniopteryx necesitas 1/2 estrella de fama en el zoo.
+   </color>
+   <p/>Iniopteryx es un genero extinto de peces cartilaginosos. Es a partir de la epoca de Pennsylvania del periodo Carbonifero, aproximadamente 300 millones de años. Sus fosiles se han encontrado en America del Norte, principalmente en dos estados: Ohio y Montana. En general, se sabe muy poco acerca de esta especie. Iniopteryx era regordete, de pequeño tamaño como el pez quimera. Se sabe que el tamaño promedio de las especies fue de alrededor de medio metro de largo en longitud. Mientras que las especies tienen espinas y aletas especializados superficialmente similar a la de un pez volador, hay mucha especulacion sobre si podria deslizarse como un pez volador, o era realmente bentonica.
+    </cell>
+  <p/>
+  <cell width="260"/>
+  <cell width="620">
+   Infirmacion de Wikipedia
+  <p/>Hecho por Imago
+  </cell>
+ </text>
+</zoopedia_iniopteryx>
+</ZT2Strings>
